@@ -1,0 +1,19 @@
+h1 {
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	margin: 10px;
+	padding-left: 445px;
+	text-align: center;
+	max-width: 1400px;
+}
+
+img {
+	float:left;
+	width: 275px;
+	height: 325px;
+	margin: 20px;
+	border-radius: 20px;
+}
